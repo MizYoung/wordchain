@@ -1,4 +1,3 @@
-<!doctype html>
 <html class="h-full">
  <head>
   <meta charset="UTF-8">
